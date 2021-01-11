@@ -1,2 +1,15 @@
-# umijs-html-template-demo
-umijs html-template test demo
+# umi project
+
+## Getting Started
+
+Install dependencies,
+
+```bash
+$ yarn
+```
+
+Start the dev server,
+
+```bash
+$ yarn start
+```
